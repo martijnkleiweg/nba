@@ -1,0 +1,59 @@
+idx,gold,pred_1,pred_2,pred_3,top1_correct,top3_correct
+1,victor wembanyama,oscar tshiebwe,liam robbins,drew timme,0,0
+2,brandon miller,leonard miller,ausar thompson,brandon miller,0,1
+3,scoot henderson,amen thompson,,,0,0
+4,amen thompson,amen thompson,isaiah wong,markquis nowell,1,1
+5,ausar thompson,leonard miller,jalen wilson,hunter tyson,0,0
+6,anthony black,jalen hood-schifino,,,0,0
+7,bilal coulibaly,leonard miller,jalen wilson,hunter tyson,0,0
+8,jarace walker,kris murray,trayce jackson-davis,taylor hendricks,0,0
+9,taylor hendricks,kris murray,trayce jackson-davis,taylor hendricks,0,1
+10,cason wallace,cason wallace,terquavion smith,isaiah wong,1,1
+11,jett howard,jalen wilson,leonard miller,hunter tyson,0,0
+12,dereck lively ii,drew timme,dereck lively ii,oscar tshiebwe,0,1
+13,gradey dick,trayce jackson-davis,kobe brown,brandin podziemski,0,0
+14,jordan hawkins,jordan hawkins,,,1,1
+15,kobe bufkin,brandin podziemski,ben sheppard,kobe bufkin,0,1
+16,keyonte george,keyonte george,elijah harkless,brandin podziemski,1,1
+17,jalen hood-schifino,nick smith jr.,,,0,0
+18,jaime jaquez jr.,emoni bates,jaime jaquez jr.,trayce jackson-davis,0,1
+19,brandin podziemski,elijah harkless,ben sheppard,brandin podziemski,0,1
+20,cam whitmore,leonard miller,,,0,0
+21,noah clowney,trayce jackson-davis,kris murray,mouhamed gueye,0,0
+22,dariq whitehead,leonard miller,jalen wilson,dariq whitehead,0,1
+23,kris murray,trayce jackson-davis,,,0,0
+24,olivier-maxence prosper,trayce jackson-davis,toumani camara,miles norris,0,0
+25,marcus sasser,marcus sasser,jalen wilson,leonard miller,1,1
+26,ben sheppard,ben sheppard,colby jones,elijah harkless,1,1
+27,nick smith jr.,trayce jackson-davis,leonard miller,jalen wilson,0,0
+28,brice sensabaugh,leonard miller,jalen wilson,hunter tyson,0,0
+29,julian strawther,jalen wilson,leonard miller,julian strawther,0,1
+30,kobe brown,jalen wilson,kobe brown,sidy cissoko,0,1
+31,james nnaji,drew timme,oscar tshiebwe,colin castleton,0,0
+32,jalen pickett,jalen pickett,adam flagler,elijah harkless,1,1
+33,leonard miller,jalen wilson,,,0,0
+34,colby jones,d'moi hodge,seth lundy,elijah harkless,0,0
+35,julian phillips,jalen wilson,hunter tyson,jalen slawson,0,0
+36,andre jackson jr.,d'moi hodge,adam flagler,elijah harkless,0,0
+37,hunter tyson,hunter tyson,jalen wilson,jalen slawson,1,1
+38,jordan walsh,jalen wilson,keyontae johnson,maxwell lewis,0,0
+39,mouhamed gueye,trayce jackson-davis,mouhamed gueye,gg jackson,0,1
+40,maxwell lewis,jalen wilson,keyontae johnson,tosan evbuomwan,0,0
+41,amari bailey,amari bailey,d'moi hodge,adam flagler,1,1
+42,tristan vuk,adama sanogo,trayce jackson-davis,jalen wilson,0,0
+43,rayan rupert,scoot henderson,,,0,0
+44,sidy cissoko,trayce jackson-davis,jalen wilson,elijah harkless,0,0
+45,gg jackson,gg jackson,drew peterson,marcus bagley,1,1
+46,seth lundy,d'moi hodge,jaylen clark,adam flagler,0,0
+47,mojave king,d'moi hodge,adam flagler,elijah harkless,0,0
+48,jordan miller,jalen wilson,,,0,0
+49,emoni bates,jalen wilson,trayce jackson-davis,emoni bates,0,1
+50,keyontae johnson,keyontae johnson,jalen wilson,jalen slawson,1,1
+51,jalen wilson,jalen slawson,tosan evbuomwan,timmy allen,0,0
+52,toumani camara,toumani camara,miles norris,alex fudge,1,1
+53,jaylen clark,adam flagler,,,0,0
+54,jalen slawson,tosan evbuomwan,jalen slawson,timmy allen,0,1
+55,isaiah wong,yuri collins,malcolm cazalon,terquavion smith,0,0
+56,tarik biberovi,jacob toppin,tosan evbuomwan,timmy allen,0,0
+57,trayce jackson-davis,trayce jackson-davis,,,1,1
+58,chris livingston,jacob toppin,tosan evbuomwan,timmy allen,0,0

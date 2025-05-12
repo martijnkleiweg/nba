@@ -1,0 +1,61 @@
+idx,gold,pred_1,pred_2,pred_3,top1_correct,top3_correct
+1,blake griffin,blake griffin,dejuan blair,taj gibson,1,1
+2,hasheem thabeet,hasheem thabeet,byron mullens,marcus cousin,1,1
+3,james harden,james harden,tyreke evans,marcus thornton,1,1
+4,tyreke evans,tyreke evans,marcus thornton,jodie meeks,1,1
+5,brandon jennings,ricky rubio,jrue holiday,ty lawson,0,0
+6,ty lawson,jrue holiday,stephen curry,darren collison,0,0
+7,stephen curry,darren collison,jeff teague,jrue holiday,0,0
+8,dejuan blair,dejuan blair,taj gibson,marcus landry,1,1
+9,marcus thornton,jodie meeks,marcus thornton,garrett temple,0,1
+10,jrue holiday,ricky rubio,jrue holiday,jeff teague,0,1
+11,jodie meeks,jodie meeks,terrence williams,jermaine taylor,1,1
+12,antonio anderson,demar derozan,terrence williams,jermaine taylor,0,0
+13,taj gibson,taj gibson,dante cunningham,jonas jerebko,1,1
+14,chase budinger,omri casspi,derrick brown,chase budinger,0,1
+15,danny green,danny green,derrick brown,omri casspi,1,1
+16,omri casspi,sam young,derrick brown,austin daye,0,0
+17,ricky rubio,ricky rubio,darren collison,jeff teague,1,1
+18,darren collison,darren collison,jeff teague,toney douglas,1,1
+19,jeff teague,eric maynor,jeff teague,rodrigue beaubois,0,1
+20,rodrigue beaubois,eric maynor,patty mills,rodrigue beaubois,0,1
+21,toney douglas,eric maynor,lester hudson,justin dentmon,0,0
+22,derrick brown,demarre carroll,derrick brown,austin daye,0,1
+23,sam young,sam young,austin daye,demarre carroll,1,1
+24,marcus cousin,marcus cousin,garret siler,viacheslav kravtsov,1,1
+25,patty mills,eric maynor,cedric jackson,lester hudson,0,0
+26,jonas jerebko,tyler hansbrough,jeff pendergraph,jonas jerebko,0,1
+27,austin daye,demarre carroll,earl clark,austin daye,0,1
+28,garrett temple,demar derozan,terrence williams,wayne ellington,0,0
+29,eric maynor,eric maynor,cedric jackson,justin dentmon,1,1
+30,taylor griffin,earl clark,demarre carroll,james johnson,0,0
+31,dante cunningham,tyler hansbrough,dante cunningham,jeff pendergraph,0,1
+32,terrence williams,demar derozan,wayne ellington,gerald henderson,0,0
+33,marcus landry,tyler hansbrough,jordan hill,jeff adrien,0,0
+34,lester hudson,lester hudson,jonny flynn,jeremy pargo,1,1
+35,tyler hansbrough,jordan hill,tyler hansbrough,jeff pendergraph,0,1
+36,demarre carroll,earl clark,james johnson,demarre carroll,0,1
+37,jeff pendergraph,jordan hill,jon brockman,jeff pendergraph,0,1
+38,jeff adrien,jordan hill,dajuan summers,jeff adrien,0,1
+39,jordan hill,jordan hill,ahmad nivins,jon brockman,1,1
+40,christian eyenga,earl clark,james johnson,robert dozier,0,0
+41,jermaine taylor,demar derozan,gerald henderson,wayne ellington,0,0
+42,cedric jackson,cedric jackson,jeremy pargo,jonny flynn,1,1
+43,demar derozan,demar derozan,wayne ellington,jack mcclinton,1,1
+44,earl clark,earl clark,robert dozier,james johnson,1,1
+45,justin dentmon,jonny flynn,sergio llull,patrick beverley,0,0
+46,wesley matthews,robert dozier,james johnson,luigi datome,0,0
+47,jon brockman,ahmad nivins,emir preld,jon brockman,0,1
+48,alonzo gee,robert dozier,james johnson,alonzo gee,0,1
+49,wayne ellington,wayne ellington,robert vaden,jack mcclinton,1,1
+50,garret siler,garret siler,goran suton,viacheslav kravtsov,1,1
+51,dionte christmas,dionte christmas,robert vaden,jack mcclinton,1,1
+52,jonny flynn,nick calathes,patrick beverley,jonny flynn,0,1
+53,jeremy pargo,nick calathes,sergio llull,a. j. price,0,0
+54,dajuan summers,jack mcclinton,robert vaden,gerald henderson,0,0
+55,nick calathes,sergio llull,nick calathes,nando de colo,0,1
+56,terrel harris,ahmad nivins,emir preld,chinemelu elonu,0,0
+57,byron mullens,byron mullens,ahmad nivins,chinemelu elonu,1,1
+58,josh akognon,nando de colo,a. j. price,patrick beverley,0,0
+59,ahmad nivins,ahmad nivins,chinemelu elonu,emir preld,1,1
+60,gerald henderson,v,luigi datome,james johnson,0,0

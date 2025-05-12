@@ -1,0 +1,117 @@
+idx,gold,pred_1,pred_2,pred_3,top1_correct,top3_correct
+1,victor wembanyama,liam robbins,drew timme,colin castleton,0,0
+2,brandon miller,brandon miller,ausar thompson,leonard miller,1,1
+3,scoot henderson,scoot henderson,amen thompson,terquavion smith,1,1
+4,amen thompson,amen thompson,isaiah wong,yuri collins,1,1
+5,ausar thompson,ausar thompson,keyontae johnson,leonard miller,1,1
+6,anthony black,brandin podziemski,nick smith jr.,jalen hood-schifino,0,0
+7,bilal coulibaly,bilal coulibaly,leonard miller,jalen wilson,1,1
+8,jarace walker,trayce jackson-davis,jarace walker,taylor hendricks,0,1
+9,taylor hendricks,taylor hendricks,kris murray,trayce jackson-davis,1,1
+10,cason wallace,cason wallace,terquavion smith,isaiah wong,1,1
+11,jett howard,jett howard,hunter tyson,keyontae johnson,1,1
+12,dereck lively ii,dereck lively ii,colin castleton,liam robbins,1,1
+13,gradey dick,gradey dick,brandin podziemski,kobe brown,1,1
+14,jordan hawkins,jordan hawkins,ben sheppard,brandin podziemski,1,1
+15,kobe bufkin,ben sheppard,brandin podziemski,kobe bufkin,0,1
+16,keyonte george,keyonte george,brandin podziemski,ben sheppard,1,1
+17,jalen hood-schifino,brandin podziemski,nick smith jr.,jalen hood-schifino,0,1
+18,jaime jaquez jr.,jaime jaquez jr.,emoni bates,brandin podziemski,1,1
+19,brandin podziemski,ben sheppard,brandin podziemski,d'moi hodge,0,1
+20,cam whitmore,cam whitmore,jalen wilson,leonard miller,1,1
+21,noah clowney,trayce jackson-davis,kris murray,noah clowney,0,1
+22,dariq whitehead,leonard miller,jalen wilson,hunter tyson,0,0
+23,kris murray,trayce jackson-davis,kris murray,gg jackson,0,1
+24,olivier-maxence prosper,trayce jackson-davis,toumani camara,olivier-maxence prosper,0,1
+25,marcus sasser,marcus sasser,jalen wilson,leonard miller,1,1
+26,ben sheppard,ben sheppard,colby jones,jalen pickett,1,1
+27,nick smith jr.,nick smith jr.,jalen wilson,leonard miller,1,1
+28,brice sensabaugh,leonard miller,jalen wilson,brice sensabaugh,0,1
+29,julian strawther,leonard miller,jalen wilson,julian strawther,0,1
+30,kobe brown,sidy cissoko,kobe brown,jalen wilson,0,1
+31,james nnaji,oscar tshiebwe,colin castleton,liam robbins,0,0
+32,jalen pickett,colby jones,d'moi hodge,elijah harkless,0,0
+33,leonard miller,jalen slawson,hunter tyson,keyontae johnson,0,0
+34,colby jones,colby jones,elijah harkless,seth lundy,1,1
+35,julian phillips,jalen wilson,keyontae johnson,jalen slawson,0,0
+36,andre jackson jr.,adam flagler,seth lundy,d'moi hodge,0,0
+37,hunter tyson,jalen slawson,jalen wilson,maxwell lewis,0,0
+38,jordan walsh,jalen wilson,jalen slawson,maxwell lewis,0,0
+39,mouhamed gueye,trayce jackson-davis,gg jackson,mouhamed gueye,0,1
+40,maxwell lewis,keyontae johnson,maxwell lewis,jalen slawson,0,1
+41,amari bailey,amari bailey,adam flagler,d'moi hodge,1,1
+42,tristan vuk,trayce jackson-davis,jalen wilson,tristan vuk,0,1
+43,rayan rupert,d'moi hodge,rayan rupert,adam flagler,0,1
+44,sidy cissoko,sidy cissoko,jalen wilson,elijah harkless,1,1
+45,gg jackson,trayce jackson-davis,drew peterson,gg jackson,0,1
+46,seth lundy,jaylen clark,d'moi hodge,seth lundy,0,1
+47,mojave king,jaylen clark,d'moi hodge,adam flagler,0,0
+48,jordan miller,tosan evbuomwan,jalen slawson,jalen wilson,0,0
+49,emoni bates,emoni bates,jalen wilson,elijah harkless,1,1
+50,keyontae johnson,jalen slawson,jalen wilson,jacob toppin,0,0
+51,jalen wilson,jalen wilson,jalen slawson,tosan evbuomwan,1,1
+52,toumani camara,toumani camara,miles norris,alex fudge,1,1
+53,jaylen clark,adam flagler,d'moi hodge,damion baugh,0,0
+54,jalen slawson,jalen slawson,jaylen martin,jacob toppin,1,1
+55,isaiah wong,malcolm cazalon,terquavion smith,isaiah wong,0,1
+56,tarik biberovi,tosan evbuomwan,timmy allen,jacob toppin,0,0
+57,trayce jackson-davis,trayce jackson-davis,drew peterson,pete nance,1,1
+58,chris livingston,tosan evbuomwan,jacob toppin,jaylen martin,0,0
+59,zaccharie risacher,zaccharie risacher,ron holland,dalton knecht,1,1
+60,alex sarr,alex sarr,kel'el ware,zach edey,1,1
+61,reed sheppard,terrence shannon jr.,reed sheppard,cam spencer,0,1
+62,stephon castle,nikola topi,stephon castle,tyler kolek,0,1
+63,ron holland,dalton knecht,jaylen wells,jaylon tyson,0,0
+64,tidjane sala,jaylon tyson,dillon jones,tidjane sala,0,1
+65,donovan clingan,kel'el ware,zach edey,donovan clingan,0,1
+66,rob dillingham,tristen newton,ajay mitchell,rob dillingham,0,1
+67,zach edey,zach edey,kel'el ware,quinten post,1,1
+68,cody williams,cody williams,nikola,johnny furphy,1,1
+69,matas buzelis,tyler smith,matas buzelis,enrique freeman,0,1
+70,nikola topi,nikola topi,isaiah collier,tyler kolek,1,1
+71,devin carter,devin carter,terrence shannon jr.,cam spencer,1,1
+72,bub carrington,terrence shannon jr.,ja'kobe walter,cam spencer,0,0
+73,kel'el ware,kel'el ware,quinten post,yves missi,1,1
+74,jared mccain,isaiah collier,tyler kolek,jared mccain,0,1
+75,dalton knecht,dalton knecht,jaylon tyson,dillon jones,1,1
+76,tristan da silva,daron holmes ii,tristan da silva,anton watson,0,1
+77,ja'kobe walter,cam spencer,ja'kobe walter,terrence shannon jr.,0,1
+78,jaylon tyson,jaylon tyson,jaylen wells,ryan dunn,1,1
+79,yves missi,quinten post,yves missi,ariel hukporti,0,1
+80,daron holmes ii,daron holmes ii,anton watson,malevy leons,1,1
+81,aj johnson,terrence shannon jr.,cam spencer,cam christie,0,0
+82,kyshawn george,terrence shannon jr.,cam spencer,kyshawn george,0,1
+83,pac,jaylen wells,pac,armel traor,0,1
+84,dillon jones,jaylen wells,armel traor,melvin ajin,0,0
+85,terrence shannon jr.,kevin mccullar jr.,cam spencer,terrence shannon jr.,0,1
+86,ryan dunn,jaylen wells,justin edwards,ryan dunn,0,1
+87,isaiah collier,jamal shead,juan n,isaiah collier,0,1
+88,baylor scheierman,antonio reeves,baylor scheierman,nikola,0,1
+89,jonathan mogbo,anton watson,jonathan mogbo,malevy leons,0,1
+90,kyle filipowski,adem bona,kyle filipowski,oso ighodaro,0,1
+91,tyler smith,enrique freeman,tyler smith,bobi klintman,0,1
+92,tyler kolek,tyler kolek,jamal shead,kj simpson,1,1
+93,johnny furphy,nikola,johnny furphy,antonio reeves,0,1
+94,juan n,jamal shead,reece beekman,juan n,0,1
+95,bobi klintman,emanuel miller,enrique freeman,bobi klintman,0,1
+96,ajay mitchell,tristen newton,ajay mitchell,cam spencer,0,1
+97,jaylen wells,justin edwards,jaylen wells,melvin ajin,0,1
+98,oso ighodaro,adem bona,oso ighodaro,ulrich chomche,0,1
+99,adem bona,adem bona,quinten post,anton watson,1,1
+100,kj simpson,jamal shead,reece beekman,kj simpson,0,1
+101,nikola,nikola,antonio reeves,pelle larsson,1,1
+102,pelle larsson,antonio reeves,alex ducas,pelle larsson,0,1
+103,jamal shead,jahmir young,daniss jenkins,reece beekman,0,0
+104,cam christie,cam spencer,trey alexander,kevin mccullar jr.,0,0
+105,antonio reeves,antonio reeves,alex ducas,cam spencer,1,1
+106,harrison ingram,enrique freeman,keion brooks jr.,emanuel miller,0,0
+107,tristen newton,tristen newton,cam spencer,anton watson,1,1
+108,enrique freeman,emanuel miller,keion brooks jr.,enrique freeman,0,1
+109,melvin ajin,justin edwards,melvin ajin,armel traor,0,1
+110,quinten post,jesse edwards,branden carlson,quinten post,0,1
+111,cam spencer,kevin mccullar jr.,cui yongxi,cam spencer,0,1
+112,anton watson,anton watson,malevy leons,tolu smith,1,1
+113,bronny james,trey alexander,kevin mccullar jr.,cui yongxi,0,0
+114,kevin mccullar jr.,kevin mccullar jr.,cui yongxi,trey alexander,1,1
+115,ulrich chomche,ulrich chomche,armel traor,ariel hukporti,1,1
+116,ariel hukporti,branden carlson,n'faly dante,jesse edwards,0,0
