@@ -6,7 +6,7 @@ This project implements multiple approaches for extracting structured informatio
 
 - `rulebased.py` – Extracts data using regex and HTML rules.
 - `bert.py` – Uses a fine-tuned BERT token classification model to extract information.
-- `gpt4.py` – Calls GPT-4 via OpenAI API to perform few-shot or zero-shot extraction.
+- `gpt4.py` – Calls GPT-4 via OpenAI API to perform extraction.
 - `gemini.py` – Uses Google Gemini API for structured extraction.
 - `hybrid.py` – Combines rule-based and Gemini methods, calling Gemini only when necessary.
 - `hybrid_alternative.py` – An alternative hybrid strategy with slightly different fallback logic.
